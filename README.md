@@ -59,7 +59,7 @@ Project is created with:
 
 1. To download the repository use:
     ```
-    git clone https://github.com/Kowal1996/Digit_Dash.git
+    git clone https://github.com/kama1990/Digit_Dash
     ```
 2. Navigate to the project directory:
     ```
