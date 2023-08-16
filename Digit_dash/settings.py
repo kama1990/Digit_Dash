@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'lottoGames',
     'accounts',
     'verify_email',
+    'coverage'
 ]
 
 MIDDLEWARE = [
